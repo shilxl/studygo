@@ -1,4 +1,4 @@
-package demo
+package studygo
 import "fmt"
 
 func Say(){
